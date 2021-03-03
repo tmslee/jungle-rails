@@ -1,0 +1,11 @@
+main section.products-index,
+main section.orders-show {
+  .order{
+    .order-item-detail{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+}
