@@ -50,7 +50,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - nav bar will display appropriate user authentication options as follows:
 - visitors (not logged in) will be shown sign up and login buttons 
 !["home logged out"](https://github.com/tmslee/jungle-rails/blob/master/docs/home.png)
-- logged in users will be shown signed in as: <username> and a log out button
+- logged in users will be shown signed in as: username and a log out button
 !["home logged in"](https://github.com/tmslee/jungle-rails/blob/master/docs/logged_in_home.png)
 
 ## About Us
